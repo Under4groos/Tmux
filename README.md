@@ -28,8 +28,14 @@ tmux kill-session -t <name>
 ```
 Hotkeys / Горячие клавиши 
 ```
-"ctrl + b, x"  - Kill panel / Закрыть панель
-"ctrl + b, q" - To show pane numbers / Показать нумерацию панелей
+"ctrl + b, x"  - Kill panel
+Закрыть панель
+
+"ctrl + b, q"  - To show pane numbers
+Показать нумерацию панелей
+
+"ctrl + b, w"  - Shows a list of open windows
+Показывает список открытых окон
 ```
 
 
@@ -52,12 +58,10 @@ Hotkeys / Горячие клавиши
 ">" - right arrow / стрелка в право 
 ```
 ```
-"ctrl + >" - 
-Will move to the panel on the right
+"ctrl + >" Will move to the panel on the right
 Переместится в панель с права 
 
-"ctrl + <" - 
-Will move to the panel on the left
+"ctrl + <" Will move to the panel on the left
 Переместится в панель с лево
 ```
 
