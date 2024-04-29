@@ -3,9 +3,12 @@
 sudo apt-get install tmux
 ```
 
-# Horizontal verical splet 
+# Split frame
+Horizontal
 ```
 tmux split-window -hf
-or 
+```
+Verical
+```
 tmux split-window -vf
 ```
