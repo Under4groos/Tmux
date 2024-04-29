@@ -12,6 +12,10 @@ tmux split-window -vf
 sudo apt-get install tmux
 ```
 # Sessions
+List of sessions / Список сессий
+``` 
+tmux ls
+```
 Create new session / Создает новую сессию 
 ```
 tmux new -s <name>
@@ -28,6 +32,9 @@ tmux kill-session -t <name>
 ```
 Hotkeys / Горячие клавиши 
 ```
+"Ctrl-b, d" - Disconnect from the session
+Отключиться от сессии
+
 "ctrl + b, x"  - Kill panel
 Закрыть панель
 
