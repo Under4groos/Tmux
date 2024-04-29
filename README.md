@@ -2,7 +2,17 @@
 ```
 sudo apt-get install tmux
 ```
+# Sessions
+Kill all sessions
+```
+tmux kill-server
+```
 
+
+Kill session
+```
+tmux kill-session -t <name>
+```
 
 
 
