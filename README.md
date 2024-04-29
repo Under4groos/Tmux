@@ -32,7 +32,7 @@ Verical
 ```
 tmux split-window -vf
 ```
-![enter image description here](https://github.com/Under4groos/Tmux/blob/master/Images/Horizontal_split.png?raw=true)
+![enter image description here](https://github.com/Under4groos/Tmux/blob/master/Images/WindowsTerminal_9JRlAKUiey.png?raw=true)
 
 KeyBinds
 ```
