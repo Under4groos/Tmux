@@ -7,7 +7,7 @@ tmux split-window -vf
 ```
 
 
-# Install / Установка Tmux
+# Install Tmux / Установка Tmux
 ```
 sudo apt-get install tmux
 ```
