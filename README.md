@@ -8,13 +8,14 @@ Kill all sessions
 tmux kill-server
 ```
 
-
 Kill session
 ```
 tmux kill-session -t <name>
 ```
-
-
+KeyBinds
+```
+ctrl + b, x  - kill panel
+```
 
 
 # Split frame
