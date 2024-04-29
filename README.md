@@ -41,8 +41,15 @@ tmux split-window -vf
 
 Hotkeys / Горячие клавиши 
 ```
-ctrl + b + % - to make a vertical split.
-ctrl + b + " - to make a Horizontal split.
-ctrl + b +   - left arrow to move to the left pane.
-ctrl + b + " - to make a Horizontal split.
+"<" - left arrow / стрелка в лево 
+">" - right arrow / стрелка в право 
+```
+```
+"ctrl + >" - 
+Will move to the panel on the right
+Переместится в панель с права 
+
+"ctrl + <" - 
+Will move to the panel on the left
+Переместится в панель с лево
 ```
