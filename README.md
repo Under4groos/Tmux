@@ -1,5 +1,5 @@
-# For check
-I am writing this instruction for myself. There is no need to write to me that everything is on the Internet.
+# Этот гайд для меня. 
+Да пойду я ... 
 
 # Install / Установка Tmux
 ```
