@@ -1,5 +1,11 @@
-# Этот гайд для меня. 
-Да пойду я ... 
+
+# My Base
+```
+sudo apt-get install
+tmux new -s underko
+tmux split-window -vf
+```
+
 
 # Install / Установка Tmux
 ```
@@ -22,7 +28,8 @@ tmux kill-session -t <name>
 ```
 Hotkeys / Горячие клавиши 
 ```
-ctrl + b, x  - kill panel
+"ctrl + b, x"  - Kill panel / Закрыть панель
+"ctrl + b, q" - To show pane numbers / Показать нумерацию панелей
 ```
 
 
@@ -52,4 +59,9 @@ Will move to the panel on the right
 "ctrl + <" - 
 Will move to the panel on the left
 Переместится в панель с лево
+```
+
+# Sound play
+```
+Chanel METAHESH
 ```
