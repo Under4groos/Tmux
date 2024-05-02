@@ -19,6 +19,8 @@ List of sessions / Список сессий
 ``` 
 tmux ls
 ```
+![enter image description here](https://github.com/Under4groos/Tmux/blob/master/Images/WindowsTerminal_x4yGqpwf4H.png?raw=true)
+
 
 Create new session / Создает новую сессию 
 ```
